@@ -76,14 +76,6 @@ Hi. I am Al Amin Hossain. I have completed my graduation in Computer Science Eng
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 <div align="center">
@@ -92,9 +84,3 @@ Hi. I am Al Amin Hossain. I have completed my graduation in Computer Science Eng
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
