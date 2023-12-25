@@ -68,19 +68,3 @@ Hi. I am Al Amin Hossain. I have completed my graduation in Computer Science Eng
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alaminhossain-web&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=alaminhossain-web&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
