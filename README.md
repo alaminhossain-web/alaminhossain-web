@@ -8,8 +8,6 @@ Hi. I am Al Amin Hossain. I have completed my graduation in Computer Science Eng
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
